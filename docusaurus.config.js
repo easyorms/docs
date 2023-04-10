@@ -14,7 +14,7 @@ const config = {
   url: "https://easyorms.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/docs/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -69,7 +69,6 @@ const config = {
             position: "left",
             label: "Tutorial",
           },
-
           {
             href: "https://github.com/easyorms/easyorm",
             label: "GitHub",
