@@ -14,7 +14,7 @@ const config = {
   url: "https://easyorms.github.io",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/docs/",
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -70,7 +70,7 @@ const config = {
             label: "Tutorial",
           },
           {
-            href: "https://github.com/easyorms/easyorm",
+            href: "https://github.com/easyorms/EasyOrm",
             label: "GitHub",
             position: "right",
           },
@@ -79,7 +79,7 @@ const config = {
       announcementBar: {
         id: "support_us", // Any value that will identify this message.
         content:
-          '⭐️ If you like EasyORM, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/easyorms/easyorm">GitHub!</a>  ⭐️ ',
+          '⭐️ If you like EasyORM, give it a star on <a target="_blank" rel="noopener noreferrer" href="https://github.com/easyorms/EasyOrm">GitHub!</a>  ⭐️ ',
       },
       footer: {
         style: "dark",
